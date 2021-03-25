@@ -1,7 +1,11 @@
 # uscots2021_presentation
 Materials for the USCOTS 2021 Breakout Session
 
-## Materials needed
+## A second course in statistics: Bridging data science and statistical modeling
+
+Materials for the USCOTS 2021 breakout session, "A second course in statistics: Bridging data science and statistical modeling," will be made available here.
+
+## Software needed
 
 R from https://cran.r-project.org/
 RStudio from https://rstudio.com/
