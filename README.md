@@ -15,4 +15,7 @@ RStudio from https://rstudio.com/
 * knitr
 * kableExtra
 
+## Textbook
+
+The course that will be discussed in this Breakout session, STA 363, uses this <a href="http://users.miamioh.edu/fishert4/sta363/">online text</a> authored by two of the presenters. 
 
