@@ -5,13 +5,19 @@ Materials for the USCOTS 2021 Breakout Session
 
 Materials for the USCOTS 2021 breakout session, "A second course in statistics: Bridging data science and statistical modeling," will be made available here.
 
+## Materials for Session
+
+* Viewing access to the slides
+* Participants are highly encouraged to download the Markdown file <a href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_starter.rmd">uscots_assignment_starter.rmd</a> and participate in the session.
+* A fully worked out (solution set) version of the assignment is available for download.
+
 ## Schedule of our session
 
 **<i>2:30-2:33</I>** - Presenter introductions
 
 *2:33-2:50* - **Class time!** - We will present some materials using an RMarkdown file. The materials are chosen to reasonably mimic a typical class.
 
-Participants are highly encouraged to download the Markdown file FILENAME and participate in the session.
+
 
 *2:50-3:15* - Class structure discussion. We will overview the history of the class including its recent increase in enrollment and the adoption of pseudo-inverted classroom design.
 
