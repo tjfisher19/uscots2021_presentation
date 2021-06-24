@@ -12,8 +12,8 @@ Materials for the USCOTS 2021 breakout session, "A second course in statistics: 
 The materials will be presented through some slides and a knitted RMarkdown file.
 
 * Viewing access to the slides
-* Participants are highly encouraged to download the Markdown file <a id="raw-url" target="_blank"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_starter.rmd" download="uscots_assignment_starter.Rmd">uscots_assignment_starter.rmd</a> and participate in the session.
-* A fully worked out (solution set) version of the assignment is available for <a id="raw-url"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_completed.html" download>download</a>.
+* Participants are highly encouraged to download the Markdown file <a id="raw-url" target="_blank"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_starter.rmd" download="uscots_assignment_starter.Rmd">uscots_assignment_starter.rmd</a> (right-click, save link as...) and participate in the session.
+* A fully worked out (solution set) version of the assignment is available for <a id="raw-url"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_completed.html" download>download</a> (right-click, save link as...") or viewable at LINK.
 
 ## Schedule of our session
 
