@@ -9,23 +9,25 @@ Materials for the USCOTS 2021 breakout session, "A second course in statistics: 
 
 ## Materials for Session
 
+The materials will be presented through some slides and a knitted RMarkdown file.
+
 * Viewing access to the slides
 * Participants are highly encouraged to download the Markdown file <a id="raw-url" target="_blank"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_starter.rmd" download="uscots_assignment_starter.Rmd">uscots_assignment_starter.rmd</a> and participate in the session.
-* A fully worked out (solution set) version of the assignment is available for <a id="raw-url"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_completed.html">download</a>.
+* A fully worked out (solution set) version of the assignment is available for <a id="raw-url"  href="https://raw.githubusercontent.com/tjfisher19/uscots2021_presentation/main/uscots_assignment_completed.html" download>download</a>.
 
 ## Schedule of our session
 
+Below is a rough schedule for the breakout session.
+
 **<i>2:30-2:33</I>** - Presenter introductions
 
-*2:33-2:50* - **Class time!** - We will present some materials using an RMarkdown file. The materials are chosen to reasonably mimic a typical class.
+**<i>2:33-2:50</i>** - **Class time!** - We will present some materials using an RMarkdown file. The materials are chosen to reasonably mimic a typical class.
 
+**<i>2:50-3:15</i>** - Class structure discussion. We will overview the history of the class including its recent increase in enrollment and the adoption of pseudo-inverted classroom design.
 
+**<i>3:15-3:35</i>** - Back to class, participants will go to Zoom Breakout rooms to have the opportunity to work on the "in-class assignment". The three presenters will work as faculty hopping around breakout rooms to help and discuss.
 
-*2:50-3:15* - Class structure discussion. We will overview the history of the class including its recent increase in enrollment and the adoption of pseudo-inverted classroom design.
-
-*3:15-3:35* - Back to class, participants will go to Zoom Breakout rooms to have the opportunity to work on the "in-class assignment". The three presenters will work as faculty hopping around breakout rooms to help and discuss.
-
-*3:35-3:45* - Open discussion of all that is covered. 
+**<i>3:35-3:45</i>** - Open discussion of all that is covered. 
 
 
 ## Software needed
