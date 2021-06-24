@@ -32,7 +32,7 @@ Below is a rough schedule for the breakout session.
 
 ## Software needed
 
-In this session we will be using the R language for Statistical program and RStudio. Specifically we will be working with RMarkdown. For those interested in participating please install:
+In this session we will be using the R language for Statistical Computing and RStudio (an IDE for coding in R). Specifically we will be working with RMarkdown. For those interested in participating please install:
 
 * R from https://cran.r-project.org/
 * RStudio from https://rstudio.com/
@@ -46,7 +46,7 @@ In addition to the base language of R, we will use the following add-on packages
 * GGally
 * knitr
 
-You can install all these packages in R/RStudio with the comment `install.packages(c("tidyverse", "ggfortify", "GGally", "knitr") )`.  If asked to install from source, selected No.
+You can install all these packages in R/RStudio with the command `install.packages(c("tidyverse", "ggfortify", "GGally", "knitr") )`.  If asked to install from source, select No.
 
 ## Textbook
 
