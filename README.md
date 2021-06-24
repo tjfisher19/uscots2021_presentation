@@ -7,9 +7,11 @@ Materials for the USCOTS 2021 breakout session, "A second course in statistics: 
 
 ## Schedule of our session
 
-*2:30-2:33* - Presenter introductions
+**<i>2:30-2:33</I>** - Presenter introductions
 
 *2:33-2:50* - **Class time!** - We will present some materials using an RMarkdown file. The materials are chosen to reasonably mimic a typical class.
+
+Participants are highly encouraged to download the Markdown file FILENAME and participate in the session.
 
 *2:50-3:15* - Class structure discussion. We will overview the history of the class including its recent increase in enrollment and the adoption of pseudo-inverted classroom design.
 
@@ -20,17 +22,21 @@ Materials for the USCOTS 2021 breakout session, "A second course in statistics: 
 
 ## Software needed
 
-R from https://cran.r-project.org/
-RStudio from https://rstudio.com/
+In this session we will be using the R language for Statistical program and RStudio. Specifically we will be working with RMarkdown. For those interested in participating please install:
+
+* R from https://cran.r-project.org/
+* RStudio from https://rstudio.com/
 
 ### R Packages
+
+In addition to the base language of R, we will use the following add-on packages
 
 * tidyverse
 * ggfortify
 * GGally
-* lindia
 * knitr
-* kableExtra
+
+You can install all these packages in R/RStudio with the comment `install.packages(c("tidyverse", "ggfortify", "GGally", "knitr") )`.  If asked to install from source, selected No.
 
 ## Textbook
 
