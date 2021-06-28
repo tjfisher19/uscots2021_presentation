@@ -8,8 +8,8 @@ Materials for the USCOTS 2021 Breakout Session
 The following materials were requested from attendees during our talk. We are happy to share.
 
 * Copy of the <a href="https://docs.google.com/document/d/1DozNPaZhQ6gAAmI1lH-r5tGAD-snTsugBYpWxO9QuRI/edit?usp=sharing">syllabus</a> from Spring 2021
-* Copy of Homework #0 (typically assigned the week before classes start)
-* Copy of Homework #1 (typically due near the start of week 2
+* Copy of <a href="homework0copy.pdf" download>Homework #0</a> (typically assigned the week before classes start)
+* Copy of <a href="homework1copy.pdf" download>Homework #1</a> (typically due near the start of week 2
 
 ## A second course in statistics: Bridging data science and statistical modeling
 
